@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     siteName: "UNITEC 2025",
     images: [
       {
-        url: "/og-arquitectura.png",
+        url: "/og-arq.jpg",
         width: 1200,
         height: 630,
         alt: "UNITEC 2025 con temática italiana",
@@ -49,7 +49,7 @@ export const metadata: Metadata = {
     title: "UNITEC 2025",
     description:
       "Celebra el Carnaval UNITEC con temática italiana. Innovación y cultura en un solo evento.",
-    images: ["/og-arquitectura.png"],
+    images: ["/og-arq.jpg"],
     creator: "@XdSho33181",
   },
   robots: {

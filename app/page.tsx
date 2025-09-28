@@ -11,117 +11,117 @@ const whatsappGroups = [
     italianElement: "colosseum",
     color: "from-[#009246] to-[#CE2B37]",
     glow: "shadow-[#009246]/50",
-    members: "24 miembros",
-    activity: "Muy activo",
-    whatsappLink: "https://chat.whatsapp.com/futbol-masculino-unitec",
+    members: "",
+    activity: "Activo",
+    whatsappLink: "https://chat.whatsapp.com/FYhYPDkJG76CvEpb6M8hVB",
   },
   {
     name: "Vóley Masculino",
     italianElement: "tower",
     color: "from-[#CE2B37] to-[#009246]",
     glow: "shadow-[#CE2B37]/50",
-    members: "18 miembros",
+    members: "",
     activity: "Activo",
-    whatsappLink: "https://chat.whatsapp.com/voley-masculino-unitec",
+    whatsappLink: "https://chat.whatsapp.com/KYNkiV9c8YXDvhHesefLcY",
   },
   {
     name: "Básquet Masculino",
     italianElement: "dome",
     color: "from-[#009246] via-[#F4F5F0] to-[#CE2B37]",
     glow: "shadow-[#009246]/50",
-    members: "22 miembros",
-    activity: "Muy activo",
-    whatsappLink: "https://chat.whatsapp.com/basquet-masculino-unitec",
+    members: "",
+    activity: "Activo",
+    whatsappLink: "https://chat.whatsapp.com/LZi7pc3zjy7HBS3VTzm1TJ",
   },
   {
     name: "Fútbol Femenino",
     italianElement: "arch",
     color: "from-[#CE2B37] via-[#F4F5F0] to-[#009246]",
     glow: "shadow-[#CE2B37]/50",
-    members: "16 miembros",
+    members: "",
     activity: "Activo",
-    whatsappLink: "https://chat.whatsapp.com/futbol-femenino-unitec",
+    whatsappLink: "https://chat.whatsapp.com/KIdAjGaF0OiF2vPfr6JWGR",
   },
   {
     name: "Vóley Femenino",
     italianElement: "column",
     color: "from-[#009246] to-[#CE2B37]",
     glow: "shadow-[#CE2B37]/50",
-    members: "20 miembros",
-    activity: "Muy activo",
-    whatsappLink: "https://chat.whatsapp.com/voley-femenino-unitec",
+    members: "",
+    activity: "Activo",
+    whatsappLink: "https://chat.whatsapp.com/LX3IIAr2lhqDVRyDajO5SP",
   },
   {
     name: "Básquet Femenino",
     italianElement: "fountain",
     color: "from-[#CE2B37] to-[#009246]",
     glow: "shadow-[#CE2B37]/50",
-    members: "14 miembros",
+    members: "",
     activity: "Activo",
-    whatsappLink: "https://chat.whatsapp.com/basquet-femenino-unitec",
+    whatsappLink: "https://chat.whatsapp.com/FTanjG3atcwCkbT8pcT5By",
   },
   {
     name: "Dibujo",
     italianElement: "palette",
     color: "from-[#009246] via-[#F4F5F0] to-[#CE2B37]",
     glow: "shadow-[#CE2B37]/50",
-    members: "32 miembros",
-    activity: "Muy activo",
-    whatsappLink: "https://chat.whatsapp.com/dibujo-unitec",
+    members: "",
+    activity: "Activo",
+    whatsappLink: "https://chat.whatsapp.com/DKJj2Ik8Mg8GPuBglmBBN2",
   },
   {
     name: "Oratoria",
     italianElement: "amphitheater",
     color: "from-[#CE2B37] via-[#F4F5F0] to-[#009246]",
     glow: "shadow-[#CE2B37]/50",
-    members: "28 miembros",
+    members: "",
     activity: "Activo",
-    whatsappLink: "https://chat.whatsapp.com/oratoria-unitec",
+    whatsappLink: "https://chat.whatsapp.com/Ho6ow4aJpIh2yApHlLijC5",
   },
   {
     name: "Conocimiento General",
     italianElement: "library",
     color: "from-[#009246] to-[#CE2B37]",
     glow: "shadow-[#CE2B37]/50",
-    members: "45 miembros",
-    activity: "Muy activo",
-    whatsappLink: "https://chat.whatsapp.com/conocimiento-general-unitec",
+    members: "",
+    activity: "Activo",
+    whatsappLink: "https://chat.whatsapp.com/HkhoYmUJELTGZ7mEcaGBhE",
   },
   {
     name: "Ajedrez",
     italianElement: "chess",
     color: "from-[#CE2B37] to-[#009246]",
     glow: "shadow-[#CE2B37]/50",
-    members: "19 miembros",
+    members: "",
     activity: "Activo",
-    whatsappLink: "https://chat.whatsapp.com/ajedrez-unitec",
+    whatsappLink: "https://chat.whatsapp.com/IgRk7EX8SaxF3PjvVUZTyn",
   },
   {
     name: "Vestido reciclado",
     italianElement: "fashion",
     color: "from-[#009246] via-[#F4F5F0] to-[#CE2B37]",
     glow: "shadow-[#CE2B37]/50",
-    members: "26 miembros",
+    members: "",
     activity: "Activo",
-    whatsappLink: "https://chat.whatsapp.com/vestido-reciclado-unitec",
+    whatsappLink: "https://chat.whatsapp.com/DLaLCOEWBnj1SbSNoOAsvx",
   },
   {
     name: "Sketch",
     italianElement: "art",
     color: "from-[#009246] via-[#F4F5F0] to-[#CE2B37]",
     glow: "shadow-[#CE2B37]/50",
-    members: "31 miembros",
-    activity: "Muy activo",
-    whatsappLink: "https://chat.whatsapp.com/sketch-unitec",
+    members: "",
+    activity: "Activo",
+    whatsappLink: "https://chat.whatsapp.com/FSQtKcbJhk8LU51zVjxUgA",
   },
   {
     name: "Exatec",
     italianElement: "victory",
     color: "from-[#009246] to-[#CE2B37]",
     glow: "shadow-[#CE2B37]/50",
-    members: "38 miembros",
-    activity: "Muy activo",
-    whatsappLink: "https://chat.whatsapp.com/exatec-unitec",
+    members: "",
+    activity: "Activo",
+    whatsappLink: "https://chat.whatsapp.com/FSQtKcbJhk8LU51zVjxUgA",
   },
 ]
 
@@ -492,7 +492,7 @@ export default function HomePage() {
               </span>
             </h1>
             <p className="text-lg sm:text-2xl md:text-3xl text-[#6E6E6E]/70 text-balance font-light">
-              <span className="italic font-serif">Competizione Universitaria</span> 2025 con espíritu de Italia 🇮🇹
+              <span className="italic font-serif">Competizione Universitaria 2025</span> con espíritu de Italia 🇮🇹
             </p>
           </div>
 
@@ -501,7 +501,7 @@ export default function HomePage() {
               <Button
                 size="lg"
                 className="bg-gradient-to-r from-[#009246] via-[#F4F5F0] to-[#CE2B37] text-black hover:shadow-2xl hover:shadow-[#009246]/30 hover:scale-110 transition-all duration-500 group px-8 py-4 text-lg font-bold w-full sm:w-auto border-2 border-black rounded-xl"
-                onClick={() => window.open("https://chat.whatsapp.com/comunidad-arquitectura-unitec", "_blank")}
+                onClick={() => window.open("https://chat.whatsapp.com/GIUg1mr9pUc7Mt7Gb1odR0", "_blank")}
               >
                 <MessageCircle className="mr-3 h-6 w-6 group-hover:animate-bounce" />
                 <span className="font-black">Únete a la Comunidad</span>
@@ -513,6 +513,14 @@ export default function HomePage() {
                 variant="outline"
                 size="lg"
                 className="border-2 border-[#CE2B37] text-[#CE2B37] hover:bg-[#CE2B37] hover:text-white hover:shadow-xl hover:shadow-[#CE2B37]/25 hover:scale-110 transition-all duration-500 group px-6 sm:px-8 py-3 sm:py-4 text-base sm:text-lg font-semibold bg-transparent w-full sm:w-auto"
+                onClick={() => {
+                  const el = document.getElementById("comunidad");
+                  if (el) {
+                    el.scrollIntoView({ behavior: "smooth" });
+                  } else {
+                    window.location.hash = "#comunidad";
+                  }
+                }}
               >
                 <Trophy className="mr-2 sm:mr-3 h-5 sm:h-6 w-5 sm:w-6 group-hover:animate-pulse" />
                 <span className="italic font-serif">Ver Competenze</span>
@@ -601,7 +609,7 @@ export default function HomePage() {
                       </div>
                       <div className="flex items-center gap-1">
                         <div
-                          className={`w-2 h-2 rounded-full ${group.activity === "Muy activo" ? "bg-[#009246]" : "bg-[#CE2B37]"} animate-pulse`}
+                          className={`w-2 h-2 rounded-full ${group.activity === "Muy activo" ? "bg-[#009246]" : "bg-[#009246]"} animate-pulse`}
                         />
                         <span className="hidden sm:inline">{group.activity}</span>
                         <span className="sm:hidden">{group.activity === "Muy activo" ? "Muy activo" : "Activo"}</span>
